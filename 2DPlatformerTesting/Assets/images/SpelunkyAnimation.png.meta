@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 401d7456ce09ae5479d8dd8d138b5b45
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpelunkyAnimation_0
+    21300002: SpelunkyAnimation_1
+    21300004: SpelunkyAnimation_2
+    21300006: SpelunkyAnimation_3
+    21300008: SpelunkyAnimation_4
+    21300010: SpelunkyAnimation_5
+    21300012: SpelunkyAnimation_6
+    21300014: SpelunkyAnimation_7
+    21300016: SpelunkyAnimation_8
+    21300018: SpelunkyAnimation_9
+    21300020: SpelunkyAnimation_10
+    21300022: SpelunkyAnimation_11
+    21300024: SpelunkyAnimation_12
+    21300026: SpelunkyAnimation_13
+    21300028: SpelunkyAnimation_14
+    21300030: SpelunkyAnimation_15
+    21300032: SpelunkyAnimation_16
+    21300034: SpelunkyAnimation_17
+    21300036: SpelunkyAnimation_18
+    21300038: SpelunkyAnimation_19
+    21300040: SpelunkyAnimation_20
+    21300042: SpelunkyAnimation_21
+    21300044: SpelunkyAnimation_22
+    21300046: SpelunkyAnimation_23
+    21300048: SpelunkyAnimation_24
+    21300050: SpelunkyAnimation_25
+    21300052: SpelunkyAnimation_26
+    21300054: SpelunkyAnimation_27
+    21300056: SpelunkyAnimation_28
+    21300058: SpelunkyAnimation_29
+    21300060: SpelunkyAnimation_30
+    21300062: SpelunkyAnimation_31
+    21300064: SpelunkyAnimation_32
+    21300066: SpelunkyAnimation_33
+    21300068: SpelunkyAnimation_34
+    21300070: SpelunkyAnimation_35
+    21300072: SpelunkyAnimation_36
+    21300074: SpelunkyAnimation_37
+    21300076: SpelunkyAnimation_38
+    21300078: SpelunkyAnimation_39
+    21300080: SpelunkyAnimation_40
+    21300082: SpelunkyAnimation_41
+    21300084: SpelunkyAnimation_42
+    21300086: SpelunkyAnimation_43
+    21300088: SpelunkyAnimation_44
+    21300090: SpelunkyAnimation_45
+    21300092: SpelunkyAnimation_46
+    21300094: SpelunkyAnimation_47
+    21300096: SpelunkyAnimation_48
+    21300098: SpelunkyAnimation_49
+    21300100: SpelunkyAnimation_50
+    21300102: SpelunkyAnimation_51
+    21300104: SpelunkyAnimation_52
+    21300106: SpelunkyAnimation_53
+    21300108: SpelunkyAnimation_54
+    21300110: SpelunkyAnimation_55
+    21300112: SpelunkyAnimation_56
+    21300114: SpelunkyAnimation_57
+    21300116: SpelunkyAnimation_58
+    21300118: SpelunkyAnimation_59
+    21300120: SpelunkyAnimation_60
+    21300122: SpelunkyAnimation_61
+    21300124: SpelunkyAnimation_62
+    21300126: SpelunkyAnimation_63
+    21300128: SpelunkyAnimation_64
+    21300130: SpelunkyAnimation_65
+    21300132: SpelunkyAnimation_66
+    21300134: SpelunkyAnimation_67
+    21300136: SpelunkyAnimation_68
+    21300138: SpelunkyAnimation_69
+    21300140: SpelunkyAnimation_70
+    21300142: SpelunkyAnimation_71
+    21300144: SpelunkyAnimation_72
+    21300146: SpelunkyAnimation_73
+    21300148: SpelunkyAnimation_74
+    21300150: SpelunkyAnimation_75
+    21300152: SpelunkyAnimation_76
+    21300154: SpelunkyAnimation_77
+    21300156: SpelunkyAnimation_78
+    21300158: SpelunkyAnimation_79
+    21300160: SpelunkyAnimation_80
+    21300162: SpelunkyAnimation_81
+    21300164: SpelunkyAnimation_82
+    21300166: SpelunkyAnimation_83
+    21300168: SpelunkyAnimation_84
+    21300170: SpelunkyAnimation_85
+    21300172: SpelunkyAnimation_86
+    21300174: SpelunkyAnimation_87
+    21300176: SpelunkyAnimation_88
+    21300178: SpelunkyAnimation_89
+    21300180: SpelunkyAnimation_90
+    21300182: SpelunkyAnimation_91
+    21300184: SpelunkyAnimation_92
+    21300186: SpelunkyAnimation_93
+    21300188: SpelunkyAnimation_94
+    21300190: SpelunkyAnimation_95
+    21300192: SpelunkyAnimation_96
+    21300194: SpelunkyAnimation_97
+    21300196: SpelunkyAnimation_98
+    21300198: SpelunkyAnimation_99
+    21300200: SpelunkyAnimation_100
+    21300202: SpelunkyAnimation_101
+    21300204: SpelunkyAnimation_102
+    21300206: SpelunkyAnimation_103
+    21300208: SpelunkyAnimation_104
+    21300210: SpelunkyAnimation_105
+    21300212: SpelunkyAnimation_106
+    21300214: SpelunkyAnimation_107
+    21300216: SpelunkyAnimation_108
+    21300218: SpelunkyAnimation_109
+    21300220: SpelunkyAnimation_110
+    21300222: SpelunkyAnimation_111
+    21300224: SpelunkyAnimation_112
+    21300226: SpelunkyAnimation_113
+    21300228: SpelunkyAnimation_114
+    21300230: SpelunkyAnimation_115
+    21300232: SpelunkyAnimation_116
+    21300234: SpelunkyAnimation_117
+    21300236: SpelunkyAnimation_118
+    21300238: SpelunkyAnimation_119
+    21300240: SpelunkyAnimation_120
+    21300242: SpelunkyAnimation_121
+    21300244: SpelunkyAnimation_122
+    21300246: SpelunkyAnimation_123
+    21300248: SpelunkyAnimation_124
+    21300250: SpelunkyAnimation_125
+    21300252: SpelunkyAnimation_126
+    21300254: SpelunkyAnimation_127
+    21300256: SpelunkyAnimation_128
+    21300258: SpelunkyAnimation_129
+    21300260: SpelunkyAnimation_130
+    21300262: SpelunkyAnimation_131
+    21300264: SpelunkyAnimation_132
+    21300266: SpelunkyAnimation_133
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpelunkyAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_63
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_65
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_75
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_77
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_79
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_87
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_89
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_97
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_105
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_107
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_109
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_117
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_119
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_120
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_121
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_127
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_129
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_131
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_132
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpelunkyAnimation_133
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
