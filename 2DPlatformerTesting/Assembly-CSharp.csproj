@@ -46,8 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scipts\CharacterController2D.cs" />
-     <Compile Include="Assets\scipts\PlayerController.cs" />
+     <Compile Include="Assets\CharacterController2D\Demo\scripts\DemoScene.cs" />
+     <Compile Include="Assets\CharacterController2D\Demo\scripts\SmoothFollow.cs" />
+     <Compile Include="Assets\CharacterController2D\Scripts\CharacterController2D.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
